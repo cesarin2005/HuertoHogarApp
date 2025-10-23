@@ -7,6 +7,7 @@ import com.example.huertohogar.ui.HomeScreen
 import com.example.huertohogar.ui.theme.HuertoHogarTheme
 
 class MainActivity : ComponentActivity() {
+    // ✅ Comentario de prueba para commit en GitHub (César)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
