@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HuertoHogar"
+rootProject.name = "HuertoHogar_mobile"
 include(":app")
+ 
